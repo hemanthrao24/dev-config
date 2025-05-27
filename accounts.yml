@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+owners:
+  name: "Hemanth"
+  email: "hemanth@gmail.com"
+  address:
+    hno: "1-23"
+    country: "India"
+  contact:
+    - "9876543216"
+    - "9876543215"

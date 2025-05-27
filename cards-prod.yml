@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+owners:
+  name: "HemanthProd"
+  email: "hemanthProd@gmail.com"
+  address:
+    hno: "1-23"
+    country: "India"
+  contact:
+    - "9876543217"
+    - "9876543218"
